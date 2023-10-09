@@ -1,7 +1,3 @@
-# Take-home-exercise
-This is the take home exercise for enview technologies backend role
-
-
 # Driving Alert Service
 This is a simple Flask application that provides two endpoints for handling driving events and alerts related to vehicle safety. The application stores recent vehicle data and triggers alerts based on specific conditions.
 
